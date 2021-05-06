@@ -1,33 +1,32 @@
-# Project
+# Git エクササイズ
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+このエクササイズは 2021年4月～5月に日本マイクロソフトが開催した クラウドワークショップの資料を一般公開したものです。
 
-As the maintainer of this project, please make a few updates:
+Git をこれから使用するエンジニア、もしくは 過去に Git ではない ソースバージョン管理ツールを使用していてこれから Git を使用しようとしているエンジニアの方を対象に、 Git の基本的な使用方法を習得していただくことを目標としています。
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+Git の使用方法を解説した PDF ファイルを教科書としてご利用ください。 PDF を読み進めながらエクササイズを1つずつ進めてください。エクササイズを解くことで Git を操作することとなり、知識としての Git ではなく Git を使えるようになります。
 
-## Contributing
+Git はコマンドラインツールであるため、本来はコマンドによる操作を習得する必要があり、またそれを推奨しますが、このエクササイズでは Git 使用の心理的ハードルを下げるために Visual Studio Code を使用しています。
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+## 対象者
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+- 開発者
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## 環境
 
-## Trademarks
+- Git
+- Visual Studio Code
+- Git Graph ( VS Code Extension )
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+## Azure サービスと関連製品
+
+- Azure DevOps ( Azure Repository)
+- GitHub
+
+## 教材 & Exerciseと回答
+
+[Git研修](./Git研修.pdf)
+
+[Git Exercise](./Git%20Exercise.md)
+
+[Git Exercise 回答](./Git%20Exercise%20Answer.md)
